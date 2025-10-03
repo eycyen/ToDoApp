@@ -1,4 +1,4 @@
-*To-Do App*
+*To-Do App*\n
 This is a simple To-Do List application developed using SwiftUI during my 3rd semester at university.
 
 *Purpose*
